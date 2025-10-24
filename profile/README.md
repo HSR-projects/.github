@@ -34,7 +34,7 @@ Every contribution counts, no matter how small.
 
 * Website: [hsr-projects.github.io/hsrprojects.org](https://hsr-projects.github.io/hsrprojects.org)
 * GitHub: [github.com/HSR-projects](https://github.com/HSR-projects)
-* Email: [kashemeshchess@gmail.com](mailto:kashemeshchess@gmail.com)
+* Email: [hsr@hsrprojects.org](mailto:hsr@hsrprojects.org)
 
 ---
 

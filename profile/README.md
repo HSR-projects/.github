@@ -32,7 +32,7 @@ Every contribution counts, no matter how small.
 
 ## 🌍 Connect With Us
 
-* Website: [hsr-projects.github.io/hsrprojects.org](https://hsr-projects.github.io/hsrprojects.org)
+* Website: [hsrprojects.org](https://hsrprojects.org)
 * GitHub: [github.com/HSR-projects](https://github.com/HSR-projects)
 * Email: [hsr@hsrprojects.org](mailto:hsr@hsrprojects.org)
 
